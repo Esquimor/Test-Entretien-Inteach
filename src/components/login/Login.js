@@ -13,7 +13,7 @@ const mapDispatchToProps = dispatch => {
 
 class Login extends Component {
   state = {
-    email: "a",
+    email: "",
     password: ""
   };
 
