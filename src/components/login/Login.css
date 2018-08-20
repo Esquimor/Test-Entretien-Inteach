@@ -1,0 +1,25 @@
+.Login {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.container{
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.form {
+  width: 200px;
+  padding-bottom: 10px;
+}
+
+.submit-login{
+  background-color: #2e7d32;
+  color: white;
+  border: none;
+  padding: 10px;
+  width: 194px;
+  margin-bottom: 25px;
+}

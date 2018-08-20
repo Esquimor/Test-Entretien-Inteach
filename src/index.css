@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.Dashboard, .Training {
+  padding: 0 20%;
+}
+
+.App-header{
+  display: flex;
+  justify-content: center;
+  background-color: #a5d6a7;
+  width: 100%;
+}
+
+.nav.navbar-nav{
+  display: flex;
+}
+
+.nav.navbar-nav li{
+  margin-left: 15px;
+  list-style-type: none;
+  background-color: #4caf50;
+  padding: 15px;
+}
+
+.nav.navbar-nav li * {
+  color: white;
+}
+
+.link {
+  background: #4caf50;
+  color: white;
+  padding: 10px;
+  border: none;
+  margin-left: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+
+.back {
+  margin-top: 50px;
+}
+
+.Input{
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+.Lessons{
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
